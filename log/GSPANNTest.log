@@ -635,3 +635,9 @@
 2018-04-25 18:34:23 [main] INFO  TestUtil:30 - Scenario is faile..:ResMed Login Test Scenario
 2018-04-25 18:35:03 [main] INFO  TestUtil:21 - Test Intialization is started...:
 2018-04-25 18:36:01 [main] INFO  TestUtil:30 - Scenario is faile..:ResMed Login Test Scenario
+2018-04-26 14:11:20 [main] INFO  TestUtil:21 - Test Intialization is started...:
+2018-04-26 14:11:32 [main] INFO  TestUtil:30 - Scenario is faile..:ResMed Login Test Scenario
+2018-04-26 14:11:32 [main] INFO  TestUtil:34 - Path of Screenshot is..E:\Local Workspace\ResMedPocProject\screenshots\1524732092911.png
+2018-04-26 14:11:32 [main] INFO  TestUtil:35 - Capturing Screenshot of the failed Scenario is..
+2018-04-26 14:14:10 [main] INFO  TestUtil:21 - Test Intialization is started...:
+2018-04-26 14:15:08 [main] INFO  TestUtil:30 - Scenario is faile..:ResMed Login Test Scenario
